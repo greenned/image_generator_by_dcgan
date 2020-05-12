@@ -22,6 +22,5 @@ MODEL_NAME = "art_embedding"
 EPOCH = 100
 
 # PATH
-TRAIN_DATA_PATH = "/home/ysmetal/google-drive/workspace/KANDINSKY/data/"
-
+TRAIN_DATA_PATH = ""
 
